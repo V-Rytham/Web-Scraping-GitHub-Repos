@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "scrapping-github-topics-repositories.ipynb": {
+      "slug": "2df16303f40540158848fab4e3e29734"
+    }
+  }
 }
